@@ -1,12 +1,19 @@
-## Rules
-![alt tag](https://raw.githubusercontent.com/JosephTLyons/Unity-Plinko/master/Screenshots/Rules.png)
+## PLINKO Game
 
-## Gameplay
-![alt tag](https://raw.githubusercontent.com/JosephTLyons/Unity-Plinko/master/Screenshots/Gameplay.png)
 
-In order to play the game, you simply need to run the application, for either Windows or macOS.
+## Goal: 
+      Capture as many balls as possible to gain as many points as possible 
 
-Artwork including the ball, peg, left and right walls, and paddle, was created by me using [Pixelmator](http://www.pixelmator.com/) software.
-The background image was a stock image I found at [PhotosInbox](http://photosinbox.com/textures/light-wood-texture).
+## Controls: 
+   -Left and right arrows move the paddle 
+   -Spacebar resets the game when the game is over 
 
-All sounds were discovered and downloaded from [Freesound](http://www.freesound.org), my go-to website for free sounds for any project.
+   
+## Rules: 
+1) The amount of balls dispensed increases by one each level completed 
+2) You may not be able to capture every ball dispensed
+3) You have 10 lives, every ball lost is a life lost 
+4) You gain an extra life every 10 balls captured 
+
+
+# Press the Spacebar to begin! 
