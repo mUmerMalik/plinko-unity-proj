@@ -2,13 +2,13 @@
 
 
 ## Goal: 
-      Capture as many balls as possible to gain as many points as possible 
+* Capture as many balls as possible to gain as many points as possible 
 
 ## Controls: 
    -Left and right arrows move the paddle 
    -Spacebar resets the game when the game is over 
 
-   
+
 ## Rules: 
 1) The amount of balls dispensed increases by one each level completed 
 2) You may not be able to capture every ball dispensed
